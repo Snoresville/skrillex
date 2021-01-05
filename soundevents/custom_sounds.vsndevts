@@ -105,7 +105,11 @@
 							  "value54"			"sounds/skrillex/sorryasapcroissant"
 							  "value55"			"sounds/skrillex/superhammer"
 							  "value56"			"sounds/skrillex/theoryofbeauty"
-							  "value57"			"sounds/skrillex/unravel"
+							  "value57"			"sounds/skrillex/brawlbreaks"
+							  "value58"			"sounds/skrillex/energysynergymatrix1"
+							  "value59"			"sounds/skrillex/energysynergymatrix2"
+							  "value60"			"sounds/skrillex/energysynergymatrix3"
+							  "value61"			"sounds/skrillex/unravel"
                         }
                     }
                     "volume"            {   "value"     "1.7000"   }
